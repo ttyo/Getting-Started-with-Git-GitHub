@@ -1,6 +1,7 @@
 # Contributing Guidelines
 
-Welcome to our project! We're excited to have you as a contributor. Before you get started, please take a moment to read through the following guidelines.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+We're excited to have you as a contributor. Before you get started, please take a moment to read through the following guidelines.
 
 ## Table of Contents
 
